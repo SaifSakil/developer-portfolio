@@ -16,11 +16,10 @@ section{
 }
 .half-width{
     width: 50%;
-    padding-left: 6%;
+    padding: 5%;
 }
 .half-width img{
     width: 60%;
-    padding-top: 15px;
 }
 .link-button{
     text-decoration: none;
@@ -33,4 +32,9 @@ section{
 .top-banner{
     background-image: url(SaifSakil/DEBELOPER.png);
     background-repeat: no-repeat;
+}
+.Sakil{
+    background-image: url(SaifSakil/Saif.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }

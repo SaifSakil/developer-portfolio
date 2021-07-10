@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 35px;
+}
+.Name{
+    color: blue;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 6%;
+}
+.half-width img{
+    width: 80%;
+    padding-top: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, black, blue);
+    padding: 5px 20px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(SaifSakil/DEBELOPER.png);
+    background-repeat: no-repeat;
+}

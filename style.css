@@ -49,12 +49,12 @@ h2{
 }
 #Baby-Web-Developer{
     border-left: 5px solid;
-    border-image: linear-gradient(blue rgba(2, 255, 255, 0.856));
+    border-image: linear-gradient(rgb(0, 60, 255), rgba(12, 240, 240, 0.822));
     border-image-slice: 1;
 }
 #Full-Stack-Web-Developer{
     border-left: 5px solid;
-    border-image: linear-gradient(blue rgba(8, 235, 235, 0.897));
+    border-image: linear-gradient(rgb(17, 0, 255), rgba(8, 201, 235, 0.897));
     border-image-slice: 1;
 }
 footer p{
